@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Ohene! 👋🏾
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=oheneadj&show_icons=true&theme=radical" />
+<img align="left" width="40%" height="50%" src="https://github-readme-stats.vercel.app/api?username=oheneadj&show_icons=true&theme=radical" />
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oheneadj&layout=compact" />
+<img align="left" width="40%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oheneadj&layout=compact" />
 
 <hr>
 
