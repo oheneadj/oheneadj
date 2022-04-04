@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=oheneadj&show_icons=true&theme=radical" />
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oheneadj&layout=compact"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oheneadj&layout=compact&hide=scss"/>
 
 <hr>
 
