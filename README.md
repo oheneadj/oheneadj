@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,6 +15,9 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there, I'm Ohene! 👋🏾
+
+- 🔭 I’m currently working on [Linkly - Url Shortener](https://github.com/oheneadj/linkly)
+- 🌱 I’m currently learning NextJS
 
 <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=oheneadj&show_icons=true&theme=radical" />
 
