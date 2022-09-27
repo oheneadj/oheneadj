@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Ohene! 👋🏾
 
-- 🔭 I’m currently working on [Linkly - Url Shortener](https://github.com/oheneadj/linkly)
+- 🔭 I’m currently working on [Short.in - Url Shortener](https://github.com/oheneadj/linkly)
 - 🌱 I’m currently learning NextJS
 
 <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=oheneadj&show_icons=true&theme=radical" />
