@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on [Short.in - Url Shortener](https://github.com/oheneadj/linkly)
 -->
 
 ## Hi there, I'm Ohene! 👋🏾
 
-- 🔭 I’m currently working on [Short.in - Url Shortener](https://github.com/oheneadj/linkly)
-- 🌱 I’m currently learning NextJS
+- 🔭 I’m currently working on my 7 projects in 7 days challenge
+- 🌱 My goal is to learn Vue.js, Vuex and PHP (Laravel) in 2023
 
 <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=oheneadj&show_icons=true&theme=radical" />
 
