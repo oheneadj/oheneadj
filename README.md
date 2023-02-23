@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Ohene! 👋🏾
 
-- 🔭 I’m currently working on my 7 projects in 7 days challenge
+- 🔭 I’m currently working on a data management system for [Focus Higher International]((https://focushigher.org/)
 - 🌱 My goal is to learn Vue.js, Vuex and PHP (Laravel) in 2023
 
 <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=oheneadj&show_icons=true&theme=radical" />
