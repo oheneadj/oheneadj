@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Ohene! 👋🏾
 
-- 🔭 I’m currently working on an Ad Listing Website for Artisans in my community [ahofapa.com](https://ahofapa.com)
+- 🔭 I’m currently working on an Ad Listing Website for Artisans in my community [fashionaid](https://github.com/oheneadj/fashionaid)
 - 🌱 My goal in 2024 is to learn how to use Docker and Kubernetes and also delve into Mobile Development with React Native.
 
 <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=oheneadj&show_icons=true&theme=radical" />
