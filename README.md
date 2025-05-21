@@ -1,32 +1,35 @@
-<!--## Hi there 👋
--->
-<!--
-**oheneadj/oheneadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ohene Adjei
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/oheneadjei)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/oheneadjei)
 
+I build websites and web apps. I mostly work with **Laravel**, **React**, **Livewire**, **Filament**, and **WordPress**. I also care about writing code that's simple, readable, and easy to improve over time.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on [Short.in - Url Shortener](https://github.com/oheneadj/linkly)
--->
-
-## Hi there, I'm Ohene! 👋🏾
-
-- 🔭 I’m currently working on an Ad Listing Website for my locals [openstores](https://github.com/oheneadj/fashionaid)
-- 🌱 My goal in 2024 is to learn how to use Docker and Kubernetes and also delve into Mobile Development with React Native.
-
-<img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=oheneadj&show_icons=true&theme=radical" />
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oheneadj&layout=compact&hide=scss"/>
+I built [**ohene.dev**](https://ohene.dev) to show my work, test new ideas, and write about what I'm learning. Sometimes I share what I know through tutorials, podcasts, or by helping other developers figure things out. That’s how I learn too.
 
 
-<!--
-<img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
--->
+---
 
+## 🧠 What I Use
+
+| **Category**            | **Technologies**                                                                                                                                                           |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Frameworks              | ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=red&labelColor=white) ![Livewire](https://img.shields.io/badge/Livewire-%23ec4899?logo=livewire&logoColor=%23ec4899&labelColor=white) ![FilamentPHP](https://img.shields.io/badge/Filament-blueviolet) ![WordPress](https://img.shields.io/badge/WordPress-blue) |
+| Programming Languages | ![PHP](https://img.shields.io/badge/PHP-indigo) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![HTML](https://img.shields.io/badge/HTML-red) ![CSS](https://img.shields.io/badge/CSS-blue) |
+| Frontend                |   ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=blue&labelColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-lightblue) ![Alpine.js](https://img.shields.io/badge/Alpine.js-teal) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple) |
+| Backend                 | ![Laravel](https://img.shields.io/badge/Laravel-orange) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-maroon) ![JWT](https://img.shields.io/badge/JWT-red) |
+| CMS / Platforms         | ![WordPress](https://img.shields.io/badge/WordPress-darkblue) ![WooCommerce](https://img.shields.io/badge/WooCommerce-pink) |
+| Tools & Platforms       | ![Git](https://img.shields.io/badge/Git-orange) ![GitHub](https://img.shields.io/badge/GitHub-black) ![Vs code](https://img.shields.io/badge/Vs_Code-blue) ![Docker](https://img.shields.io/badge/Docker-blue) |
+| **Server**              | ![Laravel Forge](https://img.shields.io/badge/Laravel_Forge-green) ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-blue) ![Hostinger](https://img.shields.io/badge/Hostinger-purple) ![Nginx](https://img.shields.io/badge/Nginx-darkgreen) ![Apache](https://img.shields.io/badge/Apache-gray) |
+
+---
+
+## 📬 Want to Get in Touch?
+
+🚀 If you want to work together, or just need help with a project, send me a message.
+
+- **Email:** [My Email](mailto:oheneadjei.dev@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/oheneadjei](https://www.linkedin.com/in/oheneadjei)  
+- **Website:** [ohene.dev](https://ohene.dev)  
+
+Let’s keep it simple and build something that works.
