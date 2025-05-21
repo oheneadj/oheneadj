@@ -1,7 +1,6 @@
 # Hey, I'm Ohene Adjei
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/oheneadjei)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/oheneadjei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/oheneadjei) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/oheneadjei)
 
 I build websites and web apps. I mostly work with **Laravel**, **React**, **Livewire**, **Filament**, and **WordPress**. I also care about writing code that's simple, readable, and easy to improve over time.
 
